@@ -1,0 +1,63 @@
+about:
+  description: ByteRover CLI (brv) - The portable memory layer for  autonomous coding agents (formerly Cipher)
+  license: NOASSERTION
+  homepage: https://docs.byterover.dev/
+  head: 1052ac1
+  archived: false
+  latestVersion: v3.16.1
+  collectedAt: 2026-09-04T04:43:08Z
+timeline:
+  created: 2025-06-19
+  lastCommit: 2026-06-25
+  lastRelease: 2026-05-27
+popularity:
+  star: 4955
+  watcher: 31
+  fork: 454
+  release: 27
+  contributor: 28
+  pullRequest: 75
+  issue: 118
+language:
+  TypeScript: 10809430
+  TeX: 69496
+  Shell: 62457
+  JavaScript: 7947
+  CSS: 7814
+  Makefile: 530
+  HTML: 385
+  Batchfile: 164
+totalLine: 10958223
+recent:
+  last30d:
+    since: 2026-08-05
+    release: 0
+    mergedPR: 0
+    openPR: 2
+    closedIssue: 0
+    openIssue: 1
+    commit: 0
+  last90d:
+    since: 2026-06-06
+    release: 0
+    mergedPR: 1
+    openPR: 5
+    closedIssue: 0
+    openIssue: 6
+    commit: 1
+  last180d:
+    since: 2026-03-08
+    release: 27
+    mergedPR: 390
+    openPR: 12
+    closedIssue: 21
+    openIssue: 11
+    commit: 639
+  last360d:
+    since: 2025-09-09
+    release: 27
+    mergedPR: 401
+    openPR: 12
+    closedIssue: 37
+    openIssue: 11
+    commit: 1944
