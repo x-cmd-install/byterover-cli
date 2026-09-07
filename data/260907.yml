@@ -5,15 +5,15 @@ about:
   head: 1052ac1
   archived: false
   latestVersion: "v3.16.1"
-  collectedAt: 2026-09-07T05:34:11Z
+  collectedAt: 2026-09-07T18:51:17Z
 timeline:
   created: 2025-06-19
   lastCommit: 2026-06-25
   lastRelease: 2026-05-27
 popularity:
-  star: 4956
+  star: 4957
   watcher: 31
-  fork: 454
+  fork: 455
   release: 27
   contributor: 28
   pullRequest: 634
@@ -86,7 +86,7 @@ total:
   commit: 3097
 ---
 path: /home/runner/.x-repo/github.com/campfirein/byterover-cli
-collectedAt: 2026-09-07T05:34:15Z
+collectedAt: 2026-09-07T18:51:20Z
 loc:
   TypeScript:
     code: 206893
@@ -172,7 +172,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:34:16+00:00
+  collectedAt: 2026-09-07T18:51:21+00:00
   platform:
     darwin/arm64:
       name:  null
