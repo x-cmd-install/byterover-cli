@@ -5,7 +5,7 @@ about:
   head: 1052ac1
   archived: false
   latestVersion: "v3.16.1"
-  collectedAt: 2026-09-08T02:54:06Z
+  collectedAt: 2026-09-08T05:34:00Z
 timeline:
   created: 2025-06-19
   lastCommit: 2026-06-25
@@ -86,7 +86,7 @@ total:
   commit: 3097
 ---
 path: /home/runner/.x-repo/github.com/campfirein/byterover-cli
-collectedAt: 2026-09-08T02:54:09Z
+collectedAt: 2026-09-08T05:34:05Z
 loc:
   TypeScript:
     code: 206893
