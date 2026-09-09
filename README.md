@@ -7,7 +7,7 @@ ByteRover CLI (brv) - The portable memory layer for  autonomous coding agents (f
 - **Latest release**: `v3.16.1` (2026-05-27)
 - **Last commit**: 2026-06-25
 - **License**: NOASSERTION
-- **Stars**: 4956 · **Forks**: 455 · **Open issues**: 118 · **Contributors**: 28
+- **Stars**: 4956 · **Forks**: 454 · **Open issues**: 118 · **Contributors**: 28
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/byterover-cli> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T05:40:44Z._
+_Last regenerated: 2026-09-09T20:08:44Z._
