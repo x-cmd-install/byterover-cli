@@ -4,7 +4,7 @@
 
 ByteRover CLI (brv) - The portable memory layer for  autonomous coding agents (formerly Cipher)
 
-![byterover-cli](https://repo.x-cmd.io/byterover-cli.svg)
+![byterover-cli](https://repo.x-cmd.io/byterover-cli.svg?lang=zh)
 
 ## 安装
 
@@ -12,35 +12,7 @@ ByteRover CLI (brv) - The portable memory layer for  autonomous coding agents (f
 x install byterover-cli
 ```
 
-## 源代码
-
-- **上游仓库**: <https://github.com/campfirein/byterover-cli>
-- **官网**: <https://docs.byterover.dev/>
-- **许可证**: NOASSERTION
-
-## 发布
-
-- **最新版本**: `v3.16.1` (2026-05-27)
-- **最近提交**: 2026-06-25
-- **发布时间**: 2026-05-27T09:12:27Z
-
-## 流行度
-
-- **Star**: 4,957 · **Fork**: 455 · **开放 issue**: 118 · **贡献者**: 28
-
-## 累计统计
-
-- **发布数**: 27 · **已合并 PR**: 559 · **开放 PR**: 12 · **已关闭 issue**: 107 · **开放 issue**: 11 · **提交数**: 3097
-
-## 最近活动
-
-| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 2 | 0 | 0 | 0 |
-| 90d | 2026-06-12 | 0 | 1 | 4 | 0 | 6 | 1 |
-| 360d | 2025-09-15 | 27 | 400 | 12 | 33 | 11 | 1944 |
-
-## 代码规模
+## 代码洞察
 
 合计: **253,120** 行代码（覆盖前 5 种语言、共 **1901** 个文件）。
 
@@ -52,6 +24,36 @@ x install byterover-cli
 | Sh | 1,359 | 178 | 271 | 5 |
 | Tex | 1,065 | 68 | 191 | 1 |
 
+## 源代码
+
+- **上游仓库**: <https://github.com/campfirein/byterover-cli>
+- **官网**: <https://docs.byterover.dev/>
+- **许可证**: NOASSERTION
+
+## 发布
+
+- **最新版本**: `v3.16.1` (2026-05-27)
+- **最近提交**: 2026-06-25
+
+## 流行度
+
+- **Star**: 4,958 · **Fork**: 455 · **开放 issue**: 118 · **贡献者**: 28
+
+## 累计统计
+
+- **发布数**: 27 · **已合并 PR**: 559 · **开放 PR**: 12 · **已关闭 issue**: 107 · **开放 issue**: 11 · **提交数**: 3097
+
+## 最近活动
+
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 0 | 2 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 3 | 0 | 3 | 0 |
+| 90d | 2026-06-12 | 0 | 1 | 4 | 0 | 6 | 1 |
+| last180d | 2026-03-14 | 27 | 390 | 12 | 21 | 11 | 567 |
+| 360d | 2025-09-15 | 27 | 400 | 12 | 33 | 11 | 1944 |
+| last720d | 2024-09-20 | 27 | 559 | 12 | 107 | 11 | 3097 |
+
 ## 改进这些数据
 
 byterover-cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `byterover-cli` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -61,4 +63,4 @@ byterover-cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/ins
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:50:06Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T23:43:57Z._

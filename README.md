@@ -12,35 +12,7 @@ ByteRover CLI (brv) - The portable memory layer for  autonomous coding agents (f
 x install byterover-cli
 ```
 
-## Source
-
-- **Upstream**: <https://github.com/campfirein/byterover-cli>
-- **Homepage**: <https://docs.byterover.dev/>
-- **License**: NOASSERTION
-
-## Release
-
-- **Latest**: `v3.16.1` (2026-05-27)
-- **Last commit**: 2026-06-25
-- **Published**: 2026-05-27T09:12:27Z
-
-## Popularity
-
-- **Stars**: 4,957 · **Forks**: 455 · **Open issues**: 118 · **Contributors**: 28
-
-## Totals (cumulative)
-
-- **Releases**: 27 · **Merged PRs**: 559 · **Open PRs**: 12 · **Closed issues**: 107 · **Open issues**: 11 · **Commits**: 3097
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 2 | 0 | 0 | 0 |
-| 90d | 2026-06-12 | 0 | 1 | 4 | 0 | 6 | 1 |
-| 360d | 2025-09-15 | 27 | 400 | 12 | 33 | 11 | 1944 |
-
-## Code size
+## Code insight
 
 Total: **253,120** lines of code across **1901** files in the top 5 languages.
 
@@ -52,13 +24,43 @@ Total: **253,120** lines of code across **1901** files in the top 5 languages.
 | Sh | 1,359 | 178 | 271 | 5 |
 | Tex | 1,065 | 68 | 191 | 1 |
 
+## Source
+
+- **Upstream**: <https://github.com/campfirein/byterover-cli>
+- **Homepage**: <https://docs.byterover.dev/>
+- **License**: NOASSERTION
+
+## Release
+
+- **Latest**: `v3.16.1` (2026-05-27)
+- **Last commit**: 2026-06-25
+
+## Popularity
+
+- **Stars**: 4,958 · **Forks**: 455 · **Open issues**: 118 · **Contributors**: 28
+
+## Totals (cumulative)
+
+- **Releases**: 27 · **Merged PRs**: 559 · **Open PRs**: 12 · **Closed issues**: 107 · **Open issues**: 11 · **Commits**: 3097
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 0 | 2 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 3 | 0 | 3 | 0 |
+| 90d | 2026-06-12 | 0 | 1 | 4 | 0 | 6 | 1 |
+| last180d | 2026-03-14 | 27 | 390 | 12 | 21 | 11 | 567 |
+| 360d | 2025-09-15 | 27 | 400 | 12 | 33 | 11 | 1944 |
+| last720d | 2024-09-20 | 27 | 559 | 12 | 107 | 11 | 3097 |
+
 ## Improve this data
 
 Install metadata for byterover-cli lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `byterover-cli` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/byterover-cli.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/byterover-cli.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:50:05Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T23:43:56Z._
