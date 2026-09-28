@@ -2,6 +2,8 @@
 
 [中文版本](./README.cn.md)
 
+> ⚠️ This project is archived.
+
 ByteRover CLI (brv) - The portable memory layer for  autonomous coding agents (formerly Cipher)
 
 [![x-cmd/install — byterover-cli Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/byterover-cli.svg)](https://x-cmd.com/install/byterover-cli)
@@ -47,12 +49,12 @@ Total: **253,120** lines of code across **1901** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-28 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-29 | 0 | 0 | 2 | 0 | 3 | 0 |
-| 90d | 2026-06-29 | 0 | 0 | 4 | 0 | 4 | 0 |
-| last180d | 2026-03-31 | 27 | 387 | 12 | 21 | 11 | 415 |
-| 360d | 2025-10-02 | 27 | 396 | 12 | 31 | 11 | 1944 |
-| last720d | 2024-10-07 | 27 | 559 | 12 | 107 | 11 | 3097 |
+| 30d | 2026-08-29 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-30 | 0 | 0 | 2 | 0 | 1 | 0 |
+| 90d | 2026-06-30 | 0 | 0 | 4 | 0 | 4 | 0 |
+| last180d | 2026-04-01 | 27 | 382 | 12 | 21 | 10 | 343 |
+| 360d | 2025-10-03 | 27 | 396 | 12 | 31 | 11 | 1943 |
+| last720d | 2024-10-08 | 27 | 559 | 12 | 107 | 11 | 3097 |
 
 ## Improve this data
 
@@ -63,4 +65,4 @@ Install metadata for byterover-cli lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260927.yml` · 2026-09-27T06:03:15Z._
+_Snapshot: `data/card/260928.yml` · 2026-09-28T06:14:56Z._
