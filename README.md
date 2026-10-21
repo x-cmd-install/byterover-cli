@@ -49,12 +49,12 @@ Total: **253,120** lines of code across **1901** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-21 | 0 | 0 | 1 | 0 | 0 | 0 |
-| 90d | 2026-07-22 | 0 | 0 | 2 | 0 | 3 | 0 |
-| last180d | 2026-04-23 | 14 | 178 | 12 | 9 | 10 | 187 |
-| 360d | 2025-10-25 | 27 | 391 | 12 | 25 | 11 | 1866 |
-| last720d | 2024-10-30 | 27 | 559 | 12 | 107 | 11 | 3097 |
+| 30d | 2026-09-21 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-22 | 0 | 0 | 1 | 0 | 0 | 0 |
+| 90d | 2026-07-23 | 0 | 0 | 2 | 0 | 3 | 0 |
+| last180d | 2026-04-24 | 13 | 174 | 12 | 9 | 10 | 187 |
+| 360d | 2025-10-26 | 27 | 391 | 12 | 25 | 11 | 1866 |
+| last720d | 2024-10-31 | 27 | 559 | 12 | 107 | 11 | 3097 |
 
 ## Improve this data
 
@@ -65,4 +65,4 @@ Install metadata for byterover-cli lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261020.yml` · 2026-10-20T05:35:56Z._
+_Snapshot: `data/card/261021.yml` · 2026-10-21T05:41:01Z._
