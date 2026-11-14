@@ -39,7 +39,7 @@ Total: **253,120** lines of code across **1901** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 4,946 · **Forks**: 455 · **Open issues**: 118 · **Contributors**: 28
+- **Stars**: 4,945 · **Forks**: 455 · **Open issues**: 118 · **Contributors**: 28
 
 ## Totals (cumulative)
 
@@ -49,12 +49,12 @@ Total: **253,120** lines of code across **1901** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-14 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-15 | 0 | 0 | 2 | 0 | 0 | 0 |
-| last180d | 2026-05-17 | 5 | 73 | 11 | 1 | 7 | 84 |
-| 360d | 2025-11-18 | 27 | 391 | 12 | 24 | 11 | 1725 |
-| last720d | 2024-11-23 | 27 | 559 | 12 | 107 | 11 | 3097 |
+| 30d | 2026-10-15 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-15 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-16 | 0 | 0 | 2 | 0 | 0 | 0 |
+| last180d | 2026-05-18 | 5 | 66 | 11 | 1 | 7 | 84 |
+| 360d | 2025-11-19 | 27 | 391 | 12 | 24 | 11 | 1725 |
+| last720d | 2024-11-24 | 27 | 559 | 12 | 107 | 11 | 3097 |
 
 ## Improve this data
 
@@ -65,4 +65,4 @@ Install metadata for byterover-cli lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261113.yml` · 2026-11-13T07:48:04Z._
+_Snapshot: `data/card/261114.yml` · 2026-11-14T07:49:09Z._
